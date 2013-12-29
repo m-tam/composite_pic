@@ -1,0 +1,53 @@
+
+slider  {
+       
+   width: 100%; 
+   margin: 0px auto;
+   position: absolute;
+   
+}
+
+.slider-wrapper {
+   width: 600px;    
+   overflow: hidden;     
+   position:relative;
+   margin: 0px auto;
+   
+}
+
+.slider-items {
+   width: 10000px; 
+   margin: 0px auto;
+   position: relative;
+  
+}
+
+.slider-block {
+   float: left;
+   margin: 0px auto;
+   width: 600px;   
+   padding: 25px 0px 0px 0px; 
+   
+}
+
+/*.slider-button-left a, .carousel-button-right a{
+   width: 25px; 
+   height: 36px; 
+   position: relative;   
+   cursor: pointer; 
+   text-decoration:none;
+}
+.slider-button-left a{
+   float: left; 
+   
+}
+.slider-button-right a{
+   float: right;
+    
+}
+*/
+
+#mouth{
+    
+}
+ 
