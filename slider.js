@@ -55,50 +55,7 @@ function NoElasticScroll(e) {
       e.preventDefault(); 
   }
   
-  
 
-/*
-$( window ).on( "orientationchange", function( event ) {
- 
-  if(window.orientation == 0) 
-  {
-    
-	$('body').css({
-        "-webkit-transform": "rotate(" + 90 + "deg)"
-    });
-  }
-  
-  else if(window.orientation == 90) 
-  {
-	  
-    $('body').css({
-        "-webkit-transform": "rotate(" + 0 + "deg)"
-    });
-  }
- 
-});
-*/
-
-/*$(window).bind("orientationchange", function(){
-    var orientation = window.orientation;
-    var new_orientation = (orientation) ? 0 : 180 + orientation;
-    $('body').css({
-        "-webkit-transform": "rotate(" + new_orientation + "deg)"
-    });
-});
-*/
-  
-/*$(document).on( "click", ".slider-button-right", function() {
-
-    var slider = $(this).parents(".slider");
-    right_slider(slider);
-});
-$(document).on( "click", ".slider-button-left", function() { 
-
-    var slider = $(this).parents(".slider");
-    left_slider(slider);
-});
-*/
 
 
 });
